@@ -1,5 +1,7 @@
 # A Moving Cat Eye React Component
 
+![](https://github.com/Dinoho234/cat-eye/blob/master/cat-eye-demo.gif)
+
 This component is a cat eye like component, the eyeball keep track on the position of the cursor on the page.
 
 Feel free to implment it, use it style it.
